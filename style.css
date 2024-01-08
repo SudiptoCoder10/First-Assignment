@@ -1,0 +1,311 @@
+/* First sections styles here*/
+
+.banner {
+    display: block;
+    margin: auto;
+    width: 60%;
+    height: 30%;
+    
+    
+
+}
+.f-sec {
+    position: relative;
+}
+.txt {
+    position: absolute;
+    top: 23%;
+    left: 38%;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    
+    
+}
+.txt p {
+    color: white;
+    font-size: 15px;
+}
+.txt h2 {
+    font-size: 40px;
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Second sections styles starts from here*/
+
+.newyear {
+    width: 40%;
+    height: 40%;
+    
+}
+.second-sec {
+    text-align: center;
+}
+.text h1, p{
+    color: rgb(220, 19, 5);
+}
+/*Third section styles starts from here*/
+
+.welcome {
+    width: 80%;
+    height: 40%;
+    display: block;
+    margin: auto;
+}
+.third-sec {
+    position: relative;
+}
+
+.txt-3 {
+    position: absolute;
+    top: 18%;
+    left: 15%;
+    color: white;
+    width: 30%;
+    height: auto;
+}
+.txt-3 p {
+    color: white;
+}
+.img-24 {
+    position: absolute;
+    top: 10%;
+    right: 14%;  
+}
+.btn {
+    background: none;
+    color: white;
+}
+
+/*Fourth Section Styles Starts from here*/
+
+.fou-sec {
+    margin-top: 20px;
+    background-color: rgb(245, 232, 232);
+    text-align: center;
+}
+.red > b {
+    color: red;
+}
+.fou-sec p {
+    color: black;
+}
+
+.btn-2 {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+/*Fifth Section Styles Starts From Here*/
+
+.fif-sec {
+    height: 400px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.round {
+    display: block;
+    margin: auto;
+    border-radius: 100%;
+    border: 10px solid red;
+    padding: 10px;
+}
+.come {
+    width: 33%;
+}
+.red-txt {
+    color: red;
+}
+.bl-txt {
+    color: black;
+    font-size: 10px;
+}
+.round-pic {
+    width: 33%;
+    border-radius: 50px;
+}
+.happy {
+    width: 33%;
+}
+.head {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.happy p {
+    color: black;
+}
+
+/*Sixth sections styles starts from here*/
+
+.six-sec {
+    text-align: center;
+}
+.sideline {
+    display: inline;
+}
+.sm-txt {
+    font-size: 10px;
+    color: black;
+}
+
+.big-txt {
+    color: black;
+    font-size: 25px;
+}
+
+/*Sixth section styles starts from here*/
+.images {
+    height: 300px;
+    width: 600px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    position: relative;
+}
+.last-img {
+    position: absolute;
+    bottom: 5%;
+}
+.r-img {
+    position: absolute;
+    right: 0px;
+    bottom: 39.5%;
+}
+.giftbox {
+    position: absolute;
+    left: 5%;
+    bottom: 6%;
+}
+.disc {
+    position: absolute;
+    right: 25%;
+    top: 10%;
+}
+
+/*Seventh section styles starts from here*/
+
+.seventh-sec {
+    width: 60%;
+    height: auto;
+    text-align: left;
+    display: block;
+    margin: auto;
+}
+.sev-1 {
+    color: red;
+    font-size: 10px;
+}
+.sev-2 {
+    color: black;
+}
+.sev-3 {
+    color: black;
+    font-size: 9px;
+}
+
+
+
+.picture:hover {
+    filter: brightness(60%);
+}
+
+/*Eight Sections Styles Starts From Here*/
+
+.eight-sec {
+    width: 60%;
+    height: auto;
+    text-align: center;
+    display: block;
+    margin: auto;
+    background-color: rgb(235, 218, 216);
+}
+.subscribe {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.eight-txt {
+    font-size: 12px;
+    color: rgb(27, 23, 23);
+}
+.inp-1 {
+    padding: 10px;
+    border: none;
+    border-top-left-radius: 25px;
+    margin-bottom: 20px;
+}
+.inp-2 {
+    padding: 10px;
+    border: none;
+    background-color: red;
+    color: white;
+    margin-bottom: 20px;
+}
+.inp-1:hover {
+    border: 2px solid black;
+}
+.inp-2:hover {
+    background-color: rgb(228, 65, 65);
+}
+
+
+/*Nine sections styles starts from here*/
+
+.ninth-sec {
+    background-color: rgb(14, 12, 32);
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.add-1 {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin: 0px 30px;
+    font-size: 12px;
+}
+
+
+
+.add-1 p {
+    color: white;
+}
+.add-2 p {
+    color: white;
+}
+.some-img {
+    display: flex;
+    margin-left: 45%;
+    text-align: center;
+}
+.logo{
+    justify-content: space-between;
+    width: 30px;
+    height: 30px;
+}
+
+
+.sometext-2 {
+    text-align: center;
+    width: 90%;
+    display: block;
+    margin: auto;
+}
+
+.add-3 {
+    display: flex;
+    justify-content: space-between;
+}
+.add-3 p {
+    color: white;
+    font-size: 12px;
+}
+
+
+
+
+
